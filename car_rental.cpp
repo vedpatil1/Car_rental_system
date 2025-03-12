@@ -1,8 +1,5 @@
-#include <iostream>
-#include <conio.h>
-#include <string.h>
-#include <windows.h>
-#include <fstream>
+#include <bits/stdc++.h>
+
 
 using namespace std;
 
